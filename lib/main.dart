@@ -51,8 +51,6 @@ class _SecondScreenState extends State<SecondScreen> {
     'You need to take a bull by the horns, and a man by his word.',
   ];
 
-  //String s = aphorisms[random.nextInt(aphorisms.length)];
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
